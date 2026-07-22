@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['No-gloves', 'gloves']
+
+roboflow:
+  workspace: rahul-mlibg
+  project: gloves-abivo-4wnuk
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rahul-mlibg/gloves-abivo-4wnuk/dataset/dataset

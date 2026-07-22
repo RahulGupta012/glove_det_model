@@ -1,0 +1,55 @@
+[
+    {
+        "image": "pexels-mikael-blomkvist-8965542 (2160p)_mp4-0005_jpg.rf.vufhIjVSofaPOlAifPME.jpg",
+        "detections": []
+    },
+    {
+        "image": "Photo on 15-02-24 at 12-38 PM_jpg.rf.xmSOY4DuSS2f8YHTKyqn.jpg",
+        "detections": [
+            {
+                "class": "gloves",
+                "confidence": 0.707,
+                "bbox": [
+                    140.78,
+                    107.11,
+                    1168.26,
+                    960.0
+                ]
+            }
+        ]
+    },
+    {
+        "image": "pexels-cottonbro-studio-6474537_jpg.rf.qGAs5Ktq5vwXBEbFn5U2.jpg",
+        "detections": [
+            {
+                "class": "gloves",
+                "confidence": 0.921,
+                "bbox": [
+                    707.48,
+                    967.09,
+                    1432.32,
+                    1701.87
+                ]
+            }
+        ]
+    },
+    {
+        "image": "1391-11_25_2023 Complaint_mp4-0019_jpg.rf.xm41c67fkW9jQL9RAErd.jpg",
+        "detections": []
+    },
+    {
+        "image": "image_150_jpg.rf.nQFBvuI7MZK4Lq3Sx6bL.jpg",
+        "detections": [
+            {
+                "class": "gloves",
+                "confidence": 0.828,
+                "bbox": [
+                    206.95,
+                    177.27,
+                    251.68,
+                    254.92
+                ]
+            }
+        ]
+    }
+]
