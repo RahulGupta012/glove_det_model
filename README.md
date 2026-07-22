@@ -78,12 +78,11 @@ Validation checks performed before training:
 
 Evaluation includes:
 
-- Precision
-- Recall
-- mAP@50
-- mAP@50-95
+- Precision: 0.948
+- Recall : 0.71
+- mAP@50 : 0.801
+- mAP@50-95 : 0.416
 - Confusion Matrix
-- Precision-Recall Curve
 
 ## Sample Results
 
