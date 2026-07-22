@@ -97,7 +97,6 @@ Evaluation includes:
 <tr>
 <td><img src="readme_assets/download (3).png" width="300"></td>
 <td><img src="readme_assets/download (4).png" width="300"></td>
-<td><img src="results/result6.jpg" width="300"></td>
 </tr>
 </table>
 
