@@ -84,6 +84,7 @@ Evaluation includes:
 - mAP@50-95 : 0.416
 - Confusion Matrix
 
+
 ## Sample Results
 
 <table>
@@ -96,6 +97,7 @@ Evaluation includes:
 <tr>
 <td><img src="readme_assets/download (3).png" width="300"></td>
 <td><img src="readme_assets/download (4).png" width="300"></td>
+<td><img src="readme_assets/confusion_matrix_normalized.png" width="300"></td>
 </tr>
 </table>
 
